@@ -13,4 +13,16 @@ const empData = () => {
         { name: "email", width: "10%", order: "descend" }
       ]
     });
+
+    const handleSort = heading => {
+      let currentOrder = developerState.headings
+        .filter(elem => elem.name === heading)
+        .map(elem => elem.order)
+        .toString();
+
+        if (currentOrder === "descend") {
+          currentOrder = "ascend";
+        } else {
+          currentOrder = "descend";
+        }
 }
