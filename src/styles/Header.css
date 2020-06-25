@@ -1,0 +1,10 @@
+.header {
+    font-family: 'Averia Sans Libre', cursive;
+    padding: 30px 0;
+    background-color: rgba(42, 68, 139, 0.822);
+    width: 100%;
+    text-align: center;
+    border-bottom: 5px solid rgba(42, 68, 139, 0.822);
+    margin-bottom: 40px;
+    color: white;
+}

@@ -2,6 +2,7 @@ import React, { useContext } from "react";
 import BodyData from "./BodyData";
 import DataAreaContext from "../utils/DataAreaContext";
 
+
 const TableData = () => {
     const context = useContext(DataAreaContext);
   

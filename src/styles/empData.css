@@ -2,4 +2,6 @@
 .data-area {
     margin: 0 auto;
     width: 40%;
+    font-family: 'Averia Sans Libre', cursive;
+    color: rgba(42, 68, 139, 0.822);
   }

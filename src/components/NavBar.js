@@ -1,5 +1,6 @@
 import React from "react";
 import Search from "./Search.js";
+import "../styles/NavBar.css"
 
 function NavBar() {
     return (
