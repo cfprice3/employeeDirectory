@@ -1,6 +1,6 @@
 {
   "homepage": "http://cfprice3.github.io/employeeDirectory",
-  "name": "createformat",
+  "name": "employeeDirectory",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
