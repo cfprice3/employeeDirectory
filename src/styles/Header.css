@@ -4,6 +4,7 @@
     background-color: rgba(42, 68, 139, 0.822);
     width: 100%;
     text-align: center;
+    border-top: 5px solid rgba(42, 68, 139, 0.822);
     border-bottom: 5px solid rgba(42, 68, 139, 0.822);
     margin-bottom: 40px;
     color: white;
