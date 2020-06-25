@@ -14,7 +14,7 @@ https://cfprice3.github.io/employeeDirectory/
 
 
 ### *Project Description:*
-This is an application created to help the user keep track of their workout sessions using MongoDB as the database..
+This is an application created to search a directory to find a specific employee to quickly access their contact information.
 
 ### *Screenshot:*
 ![ScreenShot](public/assets/screenshot.png)
